@@ -3,7 +3,8 @@
 *.prefs
 *.project
 *.classpath
-
+.settings/*
+target/*
 # Log file
 *.log
 
@@ -20,3 +21,4 @@
 *.zip
 *.tar.gz
 *.rar
+/target/
